@@ -117,3 +117,7 @@ vii. Dashboard Design
 viii. Business Intelligence Reporting
 ix. Executive Reporting
 x. Data Storytelling
+
+## Watch Demo
+https://www.loom.com/share/8eee46f779674d21a956d84f49927d0e
+
