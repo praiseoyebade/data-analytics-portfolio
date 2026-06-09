@@ -18,6 +18,10 @@ Data Analyst skilled in SQL, Power BI, Excel, and Data Visualization.
 ## Projects
 
 
+### Power BI Financial Analysis
+Built an executive-level Power BI dashboard analyzing $69M in revenue data. Developed KPI tracking, profitability analysis, regional performance reporting, asset analysis, and financial health metrics to support strategic business decisions.
+
+
 ### SQL Supermarket Sales Analysis
 Created a database from CSV files and analyzed sales performance using SQL.
 
